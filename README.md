@@ -1,6 +1,8 @@
 # bridge
 
  Winner: Best Hack for Social Good track (JP Morgan) at HopHacks 2019. 
+ 
+ https://devpost.com/software/bridge-ijlnqs
 
  A graph database and graph analytics driven platform that allows Non-profits in various sectors, volunteer/user community and corporate sponsors actively engage with each other. Volunteers can raise relevant issues as suggestions to various Non-profits belonging to a specific cause. Recommendation engine to show custom recommendations for volunteers, non-profits regarding events based on interests in social causes and proximity was created. Search engine was built for non-profits, corporate sponsors and users using Cypher graph query language. Corporate sponsors can easily identify credible Non-profits to support and collaborate with to solve various problems in social space. 
 
