@@ -12,4 +12,4 @@
  Frontend : Android studio + Realtime database hosted on Firbase ; Google maps API on the mobile App
 
 
- This repository includes mainly for backend of our project. I will be updating the repository with front end related files later. 
+ This repository includes backend files of our project. I will be updating the repository with front end related files later. 
