@@ -9,7 +9,7 @@
 
  Backend : Neo4j for graph database creating, analysis and visualization; Cypher query language for developing various features; Python was used for designing the framework and as an interface between Neo4j and frontend.
 
- Frontend : Android studio + Realtime database hosted on Firbase ; Google maps API on the mobile App
+ Frontend : Android studio + Realtime database hosted on Firebase ; Google maps API on the mobile App
 
 
  This repository includes backend files of our project. I will be updating the repository with front end related files later. 
