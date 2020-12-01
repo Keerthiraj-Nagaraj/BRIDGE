@@ -1,6 +1,6 @@
-# bridge
+# BRIDGE
 
- Winner: Best Hack for Social Good track (JP Morgan) at HopHacks 2019. 
+## Winner: Best Hack for Social Good track (JP Morgan) at HopHacks 2019. 
  
  https://devpost.com/software/bridge-ijlnqs
 
